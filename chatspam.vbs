@@ -3,7 +3,7 @@ set shell = createobject ("wscript.shell")
 strtext = inputbox ("Spam Message")
 strtimes = inputbox ("Spam Ammount")
 strspeed = inputbox ("Spam Speed (1000 = one per sec, 100 = 10 per sec etc)")
-strtimeneed = inputbox ("How many seconds do you need to get to your victims input box?")
+strtimeneed = inputbox ("How many seconds do you need to get to your victim\'s input box?")
 
 If not isnumeric (strtimes & strspeed & strtimeneed) then
 msgbox "You entered something not numerical. Please Try Again"
