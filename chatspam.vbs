@@ -1,7 +1,7 @@
 set shell = createobject ("wscript.shell")
 
 strtext = inputbox ("Spam Message")
-strtimes = inputbox ("Spam Ammount")
+strtimes = inputbox ("Spam Amount")
 strspeed = inputbox ("Spam Speed (1000 = one per sec, 100 = 10 per sec etc)")
 strtimeneed = inputbox ("How many seconds do you need to get to your victim\'s input box?")
 
