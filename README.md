@@ -1,4 +1,4 @@
 vb-chat-spam
 =============
 
-A lightweight chat spamming bot written in Visual Basic
+A lightweight chat spamming program written in Visual Basic
